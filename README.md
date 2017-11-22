@@ -4,7 +4,10 @@
 
 ### Description
 This project shows you how to create a RecyclerView with multiple sections.
-This project shows you how to do it yourself and without the help of external libraries
+
+This project shows you how to do it yourself and without the help of external libraries.
+
+Download and install the app.apk for a little preview.
 
 ### Screenshots
 <img src="screenshots/screen_01.png" width="300">
