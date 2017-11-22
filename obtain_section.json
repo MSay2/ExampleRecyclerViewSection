@@ -1,31 +1,24 @@
 {
-    "section": 
-    [
-        {
-            "Doubleur":
-            [
-                {
-                     "text": "Un"
-                },
-                {
-                    "text": "Deux"
-                },
-                {
-                    "text": "Trois"
-                }
-            ],
-            "Forceage":
-            [
-                {
-                     "text": "Un"
-                },
-                {
-                    "text": "Deux"
-                },
-                {
-                    "text": "Trois"
-                }
-            ],
-        }
-    ]
+	"section": [{
+		"Doubleur": [{
+				"text": "Un"
+			},
+			{
+				"text": "Deux"
+			},
+			{
+				"text": "Trois"
+			}
+		],
+		"Forceage": [{
+				"text": "Un"
+			},
+			{
+				"text": "Deux"
+			},
+			{
+				"text": "Trois"
+			}
+		]
+	}]
 }
