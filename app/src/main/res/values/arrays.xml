@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<array name="images">
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+		<item>@drawable/ic_launcher</item>
+	</array>
+	
+	<string-array name="texts">
+		<item>"Un"</item>
+		<item>"Deux"</item>
+		<item>"Trois"</item>
+		<item>"Quatre"</item>
+		<item>"Cinq"</item>
+		<item>"Six"</item>
+		<item>"Sept"</item>
+		<item>"Huit"</item>
+		<item>"Neuf"</item>
+		<item>"Dix"</item>
+		<item>"Onze"</item>
+		<item>"Douze"</item>
+		<item>"Treize"</item>
+		<item>"Quatorze"</item>
+		<item>"Quinze"</item>
+		<item>"Seize"</item>
+		<item>"Dix-Sept"</item>
+		<item>"Dix-Huit"</item>
+		<item>"Dix-Neuf"</item>
+		<item>"Vingt"</item>
+	</string-array>
+	
+</resources>
