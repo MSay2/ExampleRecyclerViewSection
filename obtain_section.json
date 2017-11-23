@@ -3,7 +3,7 @@
 	[   {
 			"name": "Doubleur",
 			"item": 
-			[{
+			[   {
 					"text": "Du shampoing"
 				},
 				{
@@ -19,6 +19,17 @@
 				},
 				{
 					"text": "Du citron"
+				}
+			]
+		},
+		{
+		    "name": "I Love You",
+			"item": 
+			[   {
+					"text": "Me Amore"
+				},
+				{
+					"text": "Je t'aime"
 				}
 			]
 		}
