@@ -1,24 +1,26 @@
 {
-	"section": [{
-		"Doubleur": [{
-				"text": "Un"
-			},
-			{
-				"text": "Deux"
-			},
-			{
-				"text": "Trois"
-			}
-		],
-		"Forceage": [{
-				"text": "Un"
-			},
-			{
-				"text": "Deux"
-			},
-			{
-				"text": "Trois"
-			}
-		]
-	}]
+	"section":
+	[   {
+			"name": "Doubleur",
+			"item": 
+			[{
+					"text": "Du shampoing"
+				},
+				{
+					"text": "Du caramel"
+				}
+			]
+		},
+		{
+			"name": "Forceage",
+			"item": 
+			[   {
+					"text": "Du savon"
+				},
+				{
+					"text": "Du citron"
+				}
+			]
+		}
+	]
 }
