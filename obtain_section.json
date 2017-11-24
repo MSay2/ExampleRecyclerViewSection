@@ -4,10 +4,12 @@
 			"name": "Doubleur",
 			"item": 
 			[   {
-					"text": "Du shampoing"
+					"text": "Du shampoing",
+					"image": "http://img4.hostingpics.net/pics/568550campagne01.png"
 				},
 				{
-					"text": "Du caramel"
+					"text": "Du caramel",
+					"image": "http://img4.hostingpics.net/pics/211886campagne02.png"
 				}
 			]
 		},
@@ -15,13 +17,16 @@
 			"name": "Forceage",
 			"item": 
 			[   {
-					"text": "Du savon"
+					"text": "Du savon",
+					"image": "http://img4.hostingpics.net/pics/629254campagne04.jpg"
 				},
 				{
-					"text": "Du citron"
+					"text": "Du citron",
+					"image": "http://img4.hostingpics.net/pics/611655campagne05.jpg"
 				},
 				{
-				    "text": "Vanille miam-miam"
+				    "text": "Vanille miam-miam",
+					"image": "http://img4.hostingpics.net/pics/707136csquare01.png"
 				}
 			]
 		},
@@ -29,10 +34,12 @@
 		    "name": "I Love You",
 			"item": 
 			[   {
-					"text": "Me Amore"
+					"text": "Me Amore",
+					"image": "http://img4.hostingpics.net/pics/986954csquare02.png"
 				},
 				{
-					"text": "Je t'aime"
+					"text": "Je t'aime",
+					"image": "http://img4.hostingpics.net/pics/914993kiwi01.png"
 				}
 			]
 		},
@@ -40,10 +47,12 @@
 			"name": "Depuis longtemps",
 			"item": 
 			[   {
-					"text": "Je vais manger"
+					"text": "Je vais manger",
+					"image": "http://img4.hostingpics.net/pics/908263kiwi02.png"
 				},
 				{
-					"text": "J'aimerais qu'il pleuvent"
+					"text": "J'aimerais qu'il pleuvent",
+					"image": "http://img4.hostingpics.net/pics/405008kossi01.png"
 				}
 			]
 		}
